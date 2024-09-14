@@ -1,0 +1,1516 @@
+[
+  {
+    "id": 1,
+    "name": "체력",
+    "type": "resource",
+    "tags": [
+      "resource"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 2,
+    "name": "정신력",
+    "type": "resource",
+    "tags": [
+      "resource",
+      "멘탈 생태 지식 마도공학 역사학 서브컬쳐 지식 유머"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 3,
+    "name": "돈",
+    "type": "resource",
+    "tags": [
+      "resource"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 4,
+    "name": "관찰력",
+    "type": "ability",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 5,
+    "name": "근력",
+    "type": "ability",
+    "tags": [
+      "근력 날렵함 손재주 사격술 능숙한거짓말 통솔력"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 6,
+    "name": "날렵함",
+    "type": "ability",
+    "tags": [
+      "근력 날렵함 손재주 사격술 능숙한거짓말 통솔력"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 7,
+    "name": "은신술",
+    "type": "ability",
+    "tags": [
+      "마법"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 8,
+    "name": "손재주",
+    "type": "ability",
+    "tags": [
+      "근력 날렵함 손재주 사격술 능숙한거짓말 통솔력"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 9,
+    "name": "사격술",
+    "type": "ability",
+    "tags": [
+      "근력 날렵함 손재주 사격술 능숙한거짓말 통솔력"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 10,
+    "name": "",
+    "type": "",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 11,
+    "name": "능숙한 거짓말",
+    "type": "ability",
+    "tags": [
+      "능숙한 거짓말 혹은 험악한 얼굴",
+      "근력 날렵함 손재주 사격술 능숙한거짓말 통솔력"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 12,
+    "name": "",
+    "type": "",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 13,
+    "name": "생태 지식",
+    "type": "ability",
+    "tags": [
+      "멘탈 생태 지식 마도공학 역사학 서브컬쳐 지식 유머"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 14,
+    "name": "마도공학",
+    "type": "ability",
+    "tags": [
+      "멘탈 생태 지식 마도공학 역사학 서브컬쳐 지식 유머"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 15,
+    "name": "음악적 재능",
+    "type": "ability",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 16,
+    "name": "",
+    "type": "",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 17,
+    "name": "철학",
+    "type": "ability",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 18,
+    "name": "화술",
+    "type": "ability",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 19,
+    "name": "예지력",
+    "type": "ability",
+    "tags": [
+      "마법"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 20,
+    "name": "역사학",
+    "type": "ability",
+    "tags": [
+      "멘탈 생태 지식 마도공학 역사학 서브컬쳐 지식 유머"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 21,
+    "name": "통솔력",
+    "type": "ability",
+    "tags": [
+      "근력 날렵함 손재주 사격술 능숙한거짓말 통솔력"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 22,
+    "name": "응급처치",
+    "type": "ability",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 23,
+    "name": "",
+    "type": "",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 24,
+    "name": "",
+    "type": "",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 25,
+    "name": "거짓말 탐지",
+    "type": "ability",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 26,
+    "name": "교섭",
+    "type": "ability",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 27,
+    "name": "테이밍",
+    "type": "ability",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 28,
+    "name": "험악한 얼굴",
+    "type": "ability",
+    "tags": [
+      "능숙한 거짓말 혹은 험악한 얼굴"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 29,
+    "name": "튼튼한 위장",
+    "type": "ability",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 30,
+    "name": "불굴의 투지",
+    "type": "ability",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 31,
+    "name": "미적 감각",
+    "type": "ability",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 32,
+    "name": "",
+    "type": "",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 33,
+    "name": "",
+    "type": "",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 34,
+    "name": "로브",
+    "type": "item",
+    "tags": [
+      "물건",
+      "옷"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 35,
+    "name": "휘옵이",
+    "type": "item",
+    "tags": [
+      "물건",
+      "음식"
+    ],
+    "turn": 15,
+    "storyId": 10025
+  },
+  {
+    "id": 36,
+    "name": "긍정안",
+    "type": "ability",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 37,
+    "name": "에너지 볼트",
+    "type": "ability",
+    "tags": [
+      "마법",
+      "공격"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 38,
+    "name": "환영",
+    "type": "ability",
+    "tags": [
+      "마법"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 39,
+    "name": "풍 風",
+    "type": "ability",
+    "tags": [
+      "마법"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 40,
+    "name": "계륵",
+    "type": "item",
+    "tags": [
+      "물건"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 41,
+    "name": "마석",
+    "type": "item",
+    "tags": [
+      "물건",
+      "아이템",
+      "무기",
+      "다용도"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 42,
+    "name": "화승총",
+    "type": "item",
+    "tags": [
+      "물건",
+      "무기",
+      "총"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 43,
+    "name": "리볼버",
+    "type": "item",
+    "tags": [
+      "물건",
+      "무기",
+      "총"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 44,
+    "name": "수배 중",
+    "type": "state",
+    "tags": [
+      "디버프"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 45,
+    "name": "우울함",
+    "type": "state",
+    "tags": [
+      "디버프"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 46,
+    "name": "",
+    "type": "",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 47,
+    "name": "외부 마력 침투",
+    "type": "state",
+    "tags": [
+      "디버프",
+      "부상"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 48,
+    "name": "굶주림",
+    "type": "state",
+    "tags": [
+      "디버프"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 49,
+    "name": "좋은 평판",
+    "type": "state",
+    "tags": [
+      "버프"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 50,
+    "name": "행운",
+    "type": "state",
+    "tags": [
+      "버프"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 51,
+    "name": "저주",
+    "type": "state",
+    "tags": [
+      "디버프"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 52,
+    "name": "유머",
+    "type": "ability",
+    "tags": [
+      "멘탈 생태 지식 마도공학 역사학 서브컬쳐 지식 유머"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 53,
+    "name": "고집",
+    "type": "ability",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 54,
+    "name": "신체 강화",
+    "type": "ability",
+    "tags": [
+      "마법"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 55,
+    "name": "",
+    "type": "",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 56,
+    "name": "서브컬쳐 지식",
+    "type": "ability",
+    "tags": [
+      "멘탈 생태 지식 마도공학 역사학 서브컬쳐 지식 유머"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 57,
+    "name": "",
+    "type": "",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 58,
+    "name": "음료 나무 열매",
+    "type": "item",
+    "tags": [
+      "물건",
+      "음료"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 59,
+    "name": "쓰레기",
+    "type": "item",
+    "tags": [
+      "물건"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 60,
+    "name": "실",
+    "type": "item",
+    "tags": [
+      "물건"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 61,
+    "name": "라이트닝",
+    "type": "ability",
+    "tags": [
+      "마법"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 62,
+    "name": "프리즈",
+    "type": "ability",
+    "tags": [
+      "마법"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 63,
+    "name": "수배서",
+    "type": "item",
+    "tags": [
+      "물건"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 64,
+    "name": "검술",
+    "type": "ability",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 65,
+    "name": "거대 생물 조우",
+    "type": "state",
+    "tags": [
+      "버프"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 66,
+    "name": "거인 목격담",
+    "type": "state",
+    "tags": [
+      "버프"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 67,
+    "name": "all 디버프",
+    "type": "tag",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 68,
+    "name": "숙주나물",
+    "type": "item",
+    "tags": [
+      "물건",
+      "음식",
+      "채소"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 69,
+    "name": "생고기",
+    "type": "item",
+    "tags": [
+      "물건",
+      "음식"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 70,
+    "name": "만화책",
+    "type": "item",
+    "tags": [
+      "물건"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 71,
+    "name": "야간 시야",
+    "type": "ability",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 72,
+    "name": "감기",
+    "type": "state",
+    "tags": [
+      "디버프",
+      "부상"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 73,
+    "name": "골절",
+    "type": "state",
+    "tags": [
+      "디버프",
+      "부상"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 74,
+    "name": "총",
+    "type": "tag",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 75,
+    "name": "감자",
+    "type": "item",
+    "tags": [
+      "물건",
+      "음식",
+      "채소"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 76,
+    "name": "싸패안",
+    "type": "ability",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 77,
+    "name": "출혈",
+    "type": "state",
+    "tags": [
+      "디버프",
+      "부상"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 78,
+    "name": "두통",
+    "type": "state",
+    "tags": [
+      "디버프",
+      "부상"
+    ],
+    "turn": 3,
+    "storyId": 10071
+  },
+  {
+    "id": 79,
+    "name": "닐암스트롱뭐시기의 친구",
+    "type": "state",
+    "tags": [
+      "버프"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 80,
+    "name": "멜론",
+    "type": "item",
+    "tags": [
+      "물건",
+      "음식"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 81,
+    "name": "떡국",
+    "type": "item",
+    "tags": [
+      "물건",
+      "음식"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 82,
+    "name": "음식",
+    "type": "tag",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 83,
+    "name": "치킨",
+    "type": "item",
+    "tags": [
+      "물건",
+      "음식"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 84,
+    "name": "오뱅계르크",
+    "type": "item",
+    "tags": [
+      "물건",
+      "옷"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 85,
+    "name": "오뱅형제에게영향",
+    "type": "etc",
+    "tags": null,
+    "turn": 5,
+    "storyId": 10026
+  },
+  {
+    "id": 86,
+    "name": "객관안",
+    "type": "ability",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 87,
+    "name": "감수성",
+    "type": "ability",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 88,
+    "name": "천박한 남자 영향",
+    "type": "etc",
+    "tags": null,
+    "turn": 5,
+    "storyId": 10032
+  },
+  {
+    "id": 89,
+    "name": "승리 토큰",
+    "type": "etc",
+    "tags": [
+      "토큰"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 90,
+    "name": "푸른용 목격담",
+    "type": "ability",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 91,
+    "name": "용의 비늘",
+    "type": "item",
+    "tags": [
+      "물건"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 92,
+    "name": "도시락",
+    "type": "item",
+    "tags": [
+      "물건"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 93,
+    "name": "의류",
+    "type": "item",
+    "tags": [
+      "물건",
+      "옷"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 94,
+    "name": "통기타",
+    "type": "item",
+    "tags": [
+      "물건"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 95,
+    "name": "하모니카",
+    "type": "item",
+    "tags": [
+      "물건"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 96,
+    "name": "리뷰된 자",
+    "type": "state",
+    "tags": [
+      "칭호"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 97,
+    "name": "빌런 협회 대원",
+    "type": "state",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 98,
+    "name": "빵",
+    "type": "item",
+    "tags": [
+      "물건",
+      "음식"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 99,
+    "name": "나쁜 평판",
+    "type": "state",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 100,
+    "name": "순수한 얼굴",
+    "type": "state",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 101,
+    "name": "피카온과의 조우",
+    "type": "etc",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 102,
+    "name": "",
+    "type": "",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 103,
+    "name": "",
+    "type": "",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 104,
+    "name": "",
+    "type": "",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 105,
+    "name": "",
+    "type": "",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 106,
+    "name": "초콜릿",
+    "type": "item",
+    "tags": [
+      "물건",
+      "음식"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 107,
+    "name": "술",
+    "type": "item",
+    "tags": [
+      "물건",
+      "음료"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 108,
+    "name": "",
+    "type": "",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 109,
+    "name": "조각상",
+    "type": "item",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 110,
+    "name": "",
+    "type": "",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 111,
+    "name": "길버트 호감도",
+    "type": "state",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 112,
+    "name": "빌리의 검",
+    "type": "item",
+    "tags": [
+      "물건",
+      "무기"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 113,
+    "name": "빌리의 방패",
+    "type": "item",
+    "tags": [
+      "물건",
+      "방어구"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 114,
+    "name": "라니의 친구",
+    "type": "ability",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 115,
+    "name": "말머리",
+    "type": "item",
+    "tags": [
+      "물건"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 116,
+    "name": "채소",
+    "type": "tag",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 117,
+    "name": "부목",
+    "type": "item",
+    "tags": [
+      "물건",
+      "의약품"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 118,
+    "name": "약초",
+    "type": "item",
+    "tags": [
+      "물건",
+      "의약품"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 119,
+    "name": "감자톡",
+    "type": "item",
+    "tags": [
+      "물건",
+      "음식"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 120,
+    "name": "진통제",
+    "type": "item",
+    "tags": [
+      "물건",
+      "의약품"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 121,
+    "name": "능숙한 거짓말 혹은 험악한 얼굴",
+    "type": "tag",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 122,
+    "name": "재시작",
+    "type": "etc",
+    "tags": [
+      "재시작"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 123,
+    "name": "서부 성공",
+    "type": "etc",
+    "tags": [
+      "성공"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 124,
+    "name": "서부 실패",
+    "type": "etc",
+    "tags": [
+      "실패"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 125,
+    "name": "자경단원",
+    "type": "state",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 126,
+    "name": "비챤",
+    "type": "item",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 127,
+    "name": "왁물원 진입",
+    "type": "etc",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 128,
+    "name": "자물쇠 따기",
+    "type": "ability",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 129,
+    "name": "레고월드 성공",
+    "type": "etc",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 130,
+    "name": "레고월드 실패",
+    "type": "etc",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 131,
+    "name": "히키킹 성공",
+    "type": "etc",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 132,
+    "name": "히키킹 실패",
+    "type": "etc",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 133,
+    "name": "히키킹",
+    "type": "item",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 134,
+    "name": "자경단 명예단장",
+    "type": "state",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 135,
+    "name": "마공학 리볼버",
+    "type": "item",
+    "tags": [
+      "물건",
+      "총",
+      "무기"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 136,
+    "name": "마법서",
+    "type": "item",
+    "tags": [
+      "물건",
+      "마법",
+      "무기"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 137,
+    "name": "부상",
+    "type": "tag",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 138,
+    "name": "북부 성공",
+    "type": "etc",
+    "tags": [
+      "성공"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 139,
+    "name": "북부 실패",
+    "type": "etc",
+    "tags": [
+      "실패"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 140,
+    "name": "4-A-1",
+    "type": "etc",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 141,
+    "name": "4-B-1",
+    "type": "etc",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 142,
+    "name": "근력 날렵함 손재주 사격술 능숙한거짓말 통솔력",
+    "type": "tag",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 143,
+    "name": "드래곤의 약점",
+    "type": "ability",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 144,
+    "name": "용병들의 무기",
+    "type": "item",
+    "tags": [
+      "물건",
+      "무기"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 145,
+    "name": "징버거의 식재료",
+    "type": "item",
+    "tags": [
+      "물건"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 146,
+    "name": "징버거의 도움",
+    "type": "etc",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 147,
+    "name": "물건",
+    "type": "tag",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 148,
+    "name": "동부 성공",
+    "type": "etc",
+    "tags": [
+      "성공"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 149,
+    "name": "동부 실패",
+    "type": "etc",
+    "tags": [
+      "실패"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 150,
+    "name": "마피아 본거지 재진입",
+    "type": "etc",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 151,
+    "name": "동부 전투루트",
+    "type": "etc",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 152,
+    "name": "동부 잠입루트",
+    "type": "etc",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 153,
+    "name": "개조 석궁",
+    "type": "item",
+    "tags": [
+      "물건",
+      "무기"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 154,
+    "name": "화염병",
+    "type": "item",
+    "tags": [
+      "물건",
+      "무기"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 155,
+    "name": "폭탄",
+    "type": "item",
+    "tags": [
+      "물건",
+      "무기"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 156,
+    "name": "멘탈 생태 지식 마도공학 역사학 서브컬쳐 지식 유머",
+    "type": "tag",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 157,
+    "name": "밥먹음",
+    "type": "etc",
+    "tags": null,
+    "turn": 1,
+    "storyId": 10073
+  },
+  {
+    "id": 158,
+    "name": "음료",
+    "type": "tag",
+    "tags": null,
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 159,
+    "name": "프리타",
+    "type": "item",
+    "tags": [
+      "물건",
+      "음료"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 160,
+    "name": "큿손",
+    "type": "item",
+    "tags": [
+      "물건",
+      "음식"
+    ],
+    "turn": null,
+    "storyId": null
+  },
+  {
+    "id": 161,
+    "name": "홍삼",
+    "type": "item",
+    "tags": [
+      "물건",
+      "의약품"
+    ],
+    "turn": null,
+    "storyId": null
+  }
+]
